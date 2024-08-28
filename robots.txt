@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://spropore.github.io/sitemap.html.gz
+Sitemap: https://spropore.github.io/app/sitemap.html.gz
+Sitemap: https://spropore.github.io/assets/sitemap.html.gz
+Sitemap: https://spropore.github.io/css/sitemap.html.gz
+Sitemap: https://spropore.github.io/includes/sitemap.html.gz
+Sitemap: https://spropore.github.io/item/sitemap.html.gz
+Sitemap: https://spropore.github.io/src/sitemap.html.gz
